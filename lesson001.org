@@ -20,6 +20,7 @@ emacs test.org　のような感じで始めます。
 画像を表示する
 inline [[]]
 (org-toggle-inline-images)
+org-toggle-inline-images(C-c C-x C-v)
 
 ファイルを転送してみよう
 　scp　ファイルサーバ
